@@ -3,8 +3,10 @@ React Native project that integrates a native map with different points pressed 
 
 # Dependences
 expo 
+
 react-native-maps
 
 # Instructions
 > yarn install
+
 > yarn start
